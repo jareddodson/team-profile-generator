@@ -1,7 +1,5 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const dist = require('./dist/index.html');
-const css = require('./dist/style.css');
 
 const questions = [
     {
