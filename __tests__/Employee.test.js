@@ -24,3 +24,21 @@ test('gets the employees role', () => {
 
     expect(employee.getRole()).toEqual('Employee');
 });
+
+test('gets employees id', ()=> {
+    const employee = new Employee('Jared', '777', 'jared.dodson04@gmail.com', 'Employee');
+
+    expect(employee.getName()).toEqual(employee.name);
+});
+
+test('gets employees email', () => {
+    const employee = new Employee('Jared', '777', 'jared.dodson04@gmail.com', 'Employee');
+
+    expect(employee.getId()).toEqual(employee.id);
+});
+
+test('', () => {
+    const employee = new Employee('Jared', '777', 'jared.dodson04@gmail.com', 'Employee');
+
+    expect(employee.getEmail()).toEqual(employee.email);
+});
