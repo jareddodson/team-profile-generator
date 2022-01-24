@@ -2,7 +2,6 @@
 
   ## Table of Contents
   * [Description](#description)
-  * [Installation Instructions](#installation-instructions)
   * [Usage Information](#usage-information)
   * [Contribution Guidelines](#contribution-guidelines)
   * [Test Instructions](#test-instructions)
@@ -10,10 +9,7 @@
   * [Questions](#questions)
   
   ## Description 
-  A program using Node.js and Object Oriented Programming that takes you through command line prompts that will generate a web page that displays your teams' basic info.
-
-  ## Installation Instructions
-  To use this simple README generator, first install Node.js as well as Inquirer. Once you have done that, clone the repository on your computer. Open your terminal and navigate to the appropriate directory and type "node index" or "node index.js".
+  A program using Node.js and Object Oriented Programming that takes you through command line prompts that will generate a web page that displays your team's basic info.
 
   ## Usage Information
   Once you have typed "node index" or "node index.js" just follow the prompts in your command-line and you will easily and successfully create a webpage that displays your teams' basic information!
