@@ -1,5 +1,7 @@
   # Team Profile Generator
 
+https://watch.screencastify.com/v/CbVp7CQrFwyv5M89qBDX
+
   ## Table of Contents
   * [Description](#description)
   * [Usage Information](#usage-information)
